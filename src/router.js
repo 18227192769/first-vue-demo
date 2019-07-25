@@ -60,7 +60,7 @@ export default new Router({
     {
       path: '/learn',
       name: 'learn',
-      component: () => import('./views/Learn')
+      component: () => import('_v/Learn')
     },
     {
       path: '/student',

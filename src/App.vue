@@ -24,7 +24,7 @@
         -->
         <router-link tag="li" to="/home">首页</router-link>
         <router-link tag="li" to="/learn">课程学习</router-link>
-        <router-link tag="li" to="/student">学员</router-link>
+        <router-link tag="li" to="/student">学员展示</router-link>
         <router-link tag="li" to="/about">关于</router-link>
         <router-link tag="li" to="/community">社区</router-link>
       </ul>
